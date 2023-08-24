@@ -1,6 +1,6 @@
 {
   "name": "emd-nestjs-rest-to-soap-api",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Embracing Microservices Design | API | receives a client request in REST format (i.e. JSON) and converts the message to SOAP format (i.e. XML) and sends the SOAP message, receives server response in SOAP format (i.e. XML) and converts the message to REST format (i.e. JSON) and sends the REST message.",
   "author": "wkmaaj",
   "private": true,
